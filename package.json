@@ -1,0 +1,41 @@
+{
+  "name": "@qlee/ng-template",
+  "version": "0.0.2",
+  "description": "NG Template",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li-qiang/ng-template.git"
+  },
+  "author": "li-qiang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/li-qiang/ng-template/issues"
+  },
+  "homepage": "https://github.com/li-qiang/ng-template#readme",
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "es2015": "fesm2015/qlee-ng-template.js",
+  "esm2015": "esm2015/qlee-ng-template.js",
+  "esm5": "esm5/qlee-ng-template.js",
+  "fesm2015": "fesm2015/qlee-ng-template.js",
+  "fesm5": "fesm5/qlee-ng-template.js",
+  "main": "bundles/qlee-ng-template.umd.js",
+  "metadata": "qlee-ng-template.metadata.json",
+  "module": "fesm5/qlee-ng-template.js",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "rxjs": "~6.3.3"
+  },
+  "sideEffects": false,
+  "typings": "qlee-ng-template.d.ts"
+}

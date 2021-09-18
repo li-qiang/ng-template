@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+bundles/
+esm5/
+esm2015/
+fesm5/
+fesm2015/

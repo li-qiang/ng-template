@@ -1,0 +1,55 @@
+{
+  "_from": "@qlee/ng-template",
+  "_id": "@qlee/ng-template@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-5N5651L3E8AsaWujnZNUZBpMidFgDJqb7H/1OMDpz7q9ZuOM0pQT+7o+NDGdFZrTPl/q0nZc43wQdwoQG5agSQ==",
+  "_location": "/@qlee/ng-template",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@qlee/ng-template",
+    "name": "@qlee/ng-template",
+    "escapedName": "@qlee%2fng-template",
+    "scope": "@qlee",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@qlee/ng-template/-/ng-template-0.0.1.tgz",
+  "_shasum": "3e00a10ca99e8d8a201feb09e922c29af7460737",
+  "_spec": "@qlee/ng-template",
+  "_where": "/Users/qiangli/Project/npm",
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "### Import Module ```typescript import { NgTemplateModule } from '@qlee/ng-template';",
+  "es2015": "fesm2015/qlee-ng-template.js",
+  "esm2015": "esm2015/qlee-ng-template.js",
+  "esm5": "esm5/qlee-ng-template.js",
+  "fesm2015": "fesm2015/qlee-ng-template.js",
+  "fesm5": "fesm5/qlee-ng-template.js",
+  "main": "bundles/qlee-ng-template.umd.js",
+  "metadata": "qlee-ng-template.metadata.json",
+  "module": "fesm5/qlee-ng-template.js",
+  "name": "@qlee/ng-template",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "rxjs": "~6.3.3"
+  },
+  "sideEffects": false,
+  "typings": "qlee-ng-template.d.ts",
+  "license": "Apache-2.0",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/li-qiang/ng-template.git"
+  }
+}
